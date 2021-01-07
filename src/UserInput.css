@@ -1,0 +1,9 @@
+.inputs{
+    border-radius: 0.5 rem;
+    width: 100%;
+}
+.inputs:focus{
+    outline-style: outset;
+    outline-color: blue;
+    outline-width: 2px;
+}
